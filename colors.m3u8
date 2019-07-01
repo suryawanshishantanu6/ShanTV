@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Marathi" tvg-id="" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png", Colors Marathi HD JTV HD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Marathi_HD/Colors_Marathi_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
-#EXTINF:-1 group-title="Marathi" tvg-id="" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png", Colors Marathi HD JTV HQ
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Marathi_HD/Colors_Marathi_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
-#EXTINF:-1 group-title="Marathi" tvg-id="" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png", Colors Marathi HD JTV MQ
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Marathi_HD/Colors_Marathi_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
