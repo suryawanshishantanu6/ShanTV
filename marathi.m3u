@@ -60,7 +60,7 @@ http://cshms1.airtel.tv:80/PLTV/88888888/224/3221225881/index.m3u8
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png", Zee Marathi HLS
-http://firebaseremoteconfigs.googleapis.store/api/tulip/zeeplay.m3u8?id=0-9-zeemarathi&tvauth=yieWlNVFUyTWpFMU1UQTBNdz09CjpkZjk1NWM1OWZlNDMxNjg2ZTkyZDhhYWM0OTZlZmFhZA==
+https://z5ams.akamaized.net/zmarathihd/index.m3u8?hdnts=st=1562150948~exp=1562153948~acl=/*~hmac=bc18cc1ae2db0a4336514bd26c82d7ff6e151c51fed07bd14c43d764361b492b 
 
 
 
