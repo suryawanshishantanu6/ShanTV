@@ -205,7 +205,7 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_1200.m3u
 #EXTINF:-1 tvg-id="9XM" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",9XM JTV FHD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9XM/9XM_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
-#EXTINF:-1 tvg-id="9X Jalwa" group-title="Hindi Music" tvg-logo="logo N/A",9X Jalwa JTV HD
+#EXTINF:-1 tvg-id="9X Jalwa" group-title="Hindi Music" tvg-logo="https://i.pinimg.com/originals/12/a8/69/12a869411841bfc515045a0fcc68c78e.jpg",9X Jalwa JTV HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9X_Jalwa/9X_Jalwa_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1 tvg-id="E24" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png",E24 JTV FHD
