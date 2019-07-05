@@ -271,6 +271,13 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_English/Anima
 #EXTINF:-1, tvg-id="Animal Planet" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet.png" tvg-name="Animal Planet Hindi High"  group-title="Infotainment JTV",Animal Planet Hindi High
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_Hindi/Animal_Planet_Hindi_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
+#EXTINF:-1 tvg-name="$ Nat Geo HD" tvg-id="EPG N/A" group-title="Infotainment 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png",$ Nat Geo HD
+http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8|user-agent="Lavf/56.15.102"
+
+#EXTINF:-1 tvg-name="$ Nat Geo Wild" tvg-id="id N/A" group-title="Infotainment 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png",$ Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+
+
 #EXTINF:-1, tvg-id="Travelxp" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/TravelXP_4K.jpg/revision/latest/scale-to-width-down/220?cb=20171105190222" tvg-name="Travel XP HD JTV High"  group-title="Infotainment JTV",Travel XP HD JTV High
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Travel_XP_HD/Travel_XP_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
@@ -282,10 +289,40 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_Hindi/TLC_Hindi_1200.m3
 
 
 
+#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png",Nickelodeon
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Nickelodeon/Nickelodeon_1200.m3u8?jct=Lt36jv5AAEayAO-gSHICVQ&pxe=1562465811&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png",Nickelodeon Jr
+http://smumcdnems03.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Nickelodeon_Jr/Nickelodeon_Jr_800.m3u8?jct=Lt36jv5AAEayAO-gSHICVQ&pxe=1562465811&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Junior/Nick_Junior_800.m3u8?jct=Lt36jv5AAEayAO-gSHICVQ&pxe=1562465811&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Nick_Hindi/Nick_Hindi_1200.m3u8?jct=Lt36jv5AAEayAO-gSHICVQ&pxe=1562465811&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi H
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_1200.m3u8?jct=Lt36jv5AAEayAO-gSHICVQ&pxe=1562465811&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_1200.m3u8?jct=Lt36jv5AAEayAO-gSHICVQ&pxe=1562465811&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png",Sonic Nickelodeon
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sonic_Nickelodeon/Sonic_Nickelodeon_1200.m3u8?jct=Lt36jv5AAEayAO-gSHICVQ&pxe=1562465811&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CartoonNetwork HD Eng H
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CN_HD_English/CN_HD_English_1200.m3u8?jct=Lt36jv5AAEayAO-gSHICVQ&pxe=1562465811&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Devotional" tvg-logo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_568/PORTRAIT/70513ea2-386d-4627-8df7-2df84ae7d467.jpg",Aastha
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226069/index.m3u8
 
 #EXTINF:-1 tvg-id="DD India" group-title="Hindi Entertainment" tvg-logo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_786/PORTRAIT/8ab2a6a1-9a8d-49cc-a011-744db5a9ab9e.png",DD India ATV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226293/index.m3u8
