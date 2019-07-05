@@ -173,10 +173,10 @@ http://sngprecdnems16.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Housefull_Action/
 #EXTINF:-1 group-title="Hindi Movies 2" tvg-id="Colors Cineplex" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",$ Rishtey Cineplex 
 https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/playlist.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="logo N/A",Jio Bollywood Classic HD
+#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="https://lh3.googleusercontent.com/jI_QAS-2fVDoAp7E0A7yIrj7TjWzaW0fM3U6fYNTVp64isdux1U5s8fFtK3bCOut",Jio Bollywood Classic HD
 http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Jio_Cinema/Jio_Cinema_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
-#EXTINF:-1 tvg-id="EROSNOW_Hindi_Premium" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",Jio Bollywood Premium HD HQ
+#EXTINF:-1 tvg-id="EROSNOW_Hindi_Premium" group-title="Hindi Movies" tvg-logo="https://lh3.googleusercontent.com/jI_QAS-2fVDoAp7E0A7yIrj7TjWzaW0fM3U6fYNTVp64isdux1U5s8fFtK3bCOut",Jio Bollywood Premium HD HQ
 http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/EROSNOW_Hindi_Premium/EROSNOW_Hindi_Premium_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 
@@ -249,7 +249,8 @@ http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 
 
 
-#EXTINF:-1, tvg-id="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" tvg-name="Discovery Channel"  group-title="Infotainment JTV",Discovery Channel
+
+#EXTINF:-1, tvg-id="Discovery" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-name="Discovery HD World HD"  group-title="Infotainment JTV",Discovery
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery/Discovery_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1, tvg-id="Discovery" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-name="Discovery HD World HD"  group-title="Infotainment JTV",Discovery HD World HD
