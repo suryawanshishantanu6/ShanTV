@@ -1,11 +1,13 @@
-<<<<<<< HEAD
 #EXTM3U
+
 #EXTINF:-1 group-title="Marathi", tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",  ABP Majha JTV HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABP_Majha/ABP_Majha_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1 group-title="Marathi", tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png", TV9 Maharashtra JTV FHD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TV9_Maharashtra/TV9_Maharashtra_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
+#EXTINF:-1 tvg-id="id N/A" group-title="WORLDWIDE" tvg-logo="logo N/A",Zee 24 Taas
+http://pockettv.xyz/api/zee.m3u8?c=24taas
 
 #EXTINF:-1 group-title="Marathi" tvg-id="" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png", Zee 24 Taas
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_24_Taas/Zee_24_Taas_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -16,8 +18,8 @@ http://mhms8.airtel.tv:80/PLTV/88888888/224/3221226366/index.m3u8
 #EXTINF:-1 group-title="Marathi", tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/kimg/kimg/abc01903b7d54dafba8e3a58bccff842_1280X720.png", $ News18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Aaj Tak HD" group-title="Hindi News" tvg-id="" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",$ AajTak HD High
-https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8
+#EXTINF:-1 tvg-id="Aaj Tak" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",AajTak Liv
+https://sony247channels.akamaized.net/hls/live/2002596/AAJTAK/master_1428.m3u8
 
 #EXTINF:-1, tvg-id="News 18 India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" group-title="Hindi News 2",$ News18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
@@ -52,17 +54,23 @@ http://starpravah-i.akamaihd.net/hls/live/569921/starpravah/master_2000.m3u8
 #EXTINF:-1 group-title="Marathi" tvg-id="" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png", Colors Marathi HD JTV HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Marathi_HD/Colors_Marathi_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
-#EXTINF:-1 group-title="Marathi", tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png", Zee Marathi ATV M
-http://cshms1.airtel.tv:80/PLTV/88888888/224/3221225881/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="logo N/A",Zee Marathi HD
+http://pockettv.xyz/api/zee.m3u8?c=zmarathihd
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png", Zee Marathi JTV HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 group-title="Marathi", tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png", Zee Marathi ATV M
+http://cshms1.airtel.tv:80/PLTV/88888888/224/3221225881/index.m3u8
 
 #EXTINF:-1 group-title="Marathi", tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png", Zee Talkies JTV HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1 group-title="Marathi", tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png", Sony Marathi JTV HD
 http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Marathi_SD/Sony_Marathi_SD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="logo N/A",Zee Yuva
+http://pockettv.xyz/api/zee.m3u8?c=zyuva
 
 #EXTINF:-1 group-title="Marathi" tvg-id="" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png", Zee Yuva JTV HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Yuva/Zee_Yuva_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
